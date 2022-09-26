@@ -23,7 +23,7 @@ Nosso aplicativo utiliza um recurso que fornece descrições audíveis do conte�
 aproveitar e utilizar nosso aplicativo. 
 
 <strong>3. Alterações nesta política</strong>
-A presente versão desta política de privacidade foi atualizada pela última vez em: 20/09/2022
+A presente versão desta política de privacidade foi atualizada pela última vez em: 26/09/2022
 
 Reservamo-nos o direito de modificar, a qualquer momento, as presentes normas, especialmente para adaptá-las às eventuais alterações feitas em nosso aplicativo, seja pela disponibilização de novas funcionalidades, seja pela supressão ou modificação daquelas já existentes.
 
